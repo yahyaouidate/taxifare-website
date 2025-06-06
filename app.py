@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Titre de la page
-st.title("TaxiFareModel Frontend")
+st.title("TaxiFareModel")
 
 st.markdown("""
 ## Enter ride parameters below
